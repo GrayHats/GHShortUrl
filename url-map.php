@@ -1,6 +1,6 @@
 <?
-#gu
+#3
 $map = array(
-'2' => 'http://www.fibiger.org/code.php',
+'3' => array( 'u'=> 'http://www.grayhats.org', 'c'=>'9' ),  
 );
 ?>
